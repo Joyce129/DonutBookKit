@@ -1,0 +1,6 @@
+framework module DonutBookKit {
+  umbrella header "DonutBookKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

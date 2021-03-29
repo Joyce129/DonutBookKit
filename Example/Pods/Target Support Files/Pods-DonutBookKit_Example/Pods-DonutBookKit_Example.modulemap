@@ -1,0 +1,6 @@
+framework module Pods_DonutBookKit_Example {
+  umbrella header "Pods-DonutBookKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

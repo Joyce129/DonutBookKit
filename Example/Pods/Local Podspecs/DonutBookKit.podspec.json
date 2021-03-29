@@ -1,0 +1,22 @@
+{
+  "name": "DonutBookKit",
+  "version": "0.1.0",
+  "summary": "A short description of DonutBookKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yangyingying/DonutBookKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yangyingying": "yangyingying@koolearn.com"
+  },
+  "source": {
+    "git": "https://github.com/yangyingying/DonutBookKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DonutBookKit/Classes/**/*"
+}
