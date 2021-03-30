@@ -50,7 +50,7 @@
 		1A47CA62F61AF18B0722B8B9F5C60F09 /* DonutBookKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DonutBookKit.release.xcconfig; sourceTree = "<group>"; };
 		20F61C4505E0878D19E8B434400CD88C /* Pods-DonutBookKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DonutBookKit_Tests-dummy.m"; sourceTree = "<group>"; };
 		3BA8358DE3CFBE443B81B002C7867FD5 /* Pods-DonutBookKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DonutBookKit_Tests-umbrella.h"; sourceTree = "<group>"; };
-		3C804D8AF9D08B9B92130FB9503DFC39 /* DonutBookKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DonutBookKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C804D8AF9D08B9B92130FB9503DFC39 /* DonutBookKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DonutBookKit.framework; path = DonutBookKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CCC46773CC307E88E28C300B4E0A28F /* Pods-DonutBookKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DonutBookKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3FEF7C51B65273EDBE09B484FB2D1518 /* Pods-DonutBookKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DonutBookKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		47C3E8DE4CD5774A4754097EC3DB70A0 /* Pods-DonutBookKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DonutBookKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -64,20 +64,20 @@
 		97D1BC9B87684320ABD5D1D25BB63366 /* Pods-DonutBookKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DonutBookKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		987BDC71D358E1BE83472C685B9E8E24 /* Pods-DonutBookKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DonutBookKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		999D553B7FF7E38CBBD9A55526C56833 /* DonutBookKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "DonutBookKit-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A045F0636B7C8B8CA3DB541A4EAD295C /* DonutBookKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DonutBookKit.debug.xcconfig; sourceTree = "<group>"; };
-		A43B3E41437F50C1AF41C21BC490BE43 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A43B3E41437F50C1AF41C21BC490BE43 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		A5DB0BC07037352DD2E76DDDBC66342D /* Pods-DonutBookKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DonutBookKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		A75F89E01FC584F45D4ACFCE0943F8C4 /* UIImageView+CornerRadius.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+CornerRadius.m"; sourceTree = "<group>"; };
-		AAC6885A082F937E71A3FC2584713570 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		B1D154120AC4CAC49385A4A15DFB09EF /* Pods_DonutBookKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DonutBookKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAC6885A082F937E71A3FC2584713570 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B1D154120AC4CAC49385A4A15DFB09EF /* Pods_DonutBookKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DonutBookKit_Tests.framework; path = "Pods-DonutBookKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2E7B5375104B5CB79519C513178A3AE /* Pods-DonutBookKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DonutBookKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C5E7E9DBC5DA899DA110A8A2B6FAFB9A /* DonutBookKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DonutBookKit-umbrella.h"; sourceTree = "<group>"; };
 		C64DA9466FD462B7C18A6FAC74EF4ED2 /* Pods-DonutBookKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DonutBookKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D60F59A0354EDC0E705CCDDD30466027 /* DonutBookKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = DonutBookKit.modulemap; sourceTree = "<group>"; };
-		D62A0F15E11789E02AC67D05A4BDE8F9 /* DonutBookKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = DonutBookKit.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		D62A0F15E11789E02AC67D05A4BDE8F9 /* DonutBookKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = DonutBookKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E5DAB39E294EA3ED99BFC05AA037B56B /* UIImageView+CornerRadius.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIImageView+CornerRadius.h"; sourceTree = "<group>"; };
-		F46D0607DBE54716A72E1E343528EFB9 /* Pods_DonutBookKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DonutBookKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F46D0607DBE54716A72E1E343528EFB9 /* Pods_DonutBookKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DonutBookKit_Example.framework; path = "Pods-DonutBookKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -743,7 +743,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

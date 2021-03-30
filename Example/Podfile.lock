@@ -1,5 +1,5 @@
 PODS:
-  - DonutBookKit (0.1.0)
+  - DonutBookKit (1.0.0)
 
 DEPENDENCIES:
   - DonutBookKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DonutBookKit: ebe2d18eecd5028f43897593c0d4a100dfc37a06
+  DonutBookKit: de4fe75be4f3aff3f0df3196b7812748f35a5965
 
 PODFILE CHECKSUM: 023ea5a8318fb3ae1068188f1460402b836b19ca
 
